@@ -12,10 +12,10 @@ Always exploring new ways to integrate hardware and software to create smart sol
 - **Data Visualization:** Tableau
 
 ## 📌 Featured Projects  
-🔹 **[Analysis of Gait Walk and Gait Trot Balance in Quadruped Robot Based on Attitude Angle](#)** – Designed and implemented a fuzzy logic-based control system for a quadruped robot to regulate yaw angle during forward movement using walking and trotting gaits. 
+🔹 **[Analysis of Gait Walk and Gait Trot Balance in Quadruped Robot Based on Attitude Angle](https://section.iaesonline.com/index.php/IJEEI/article/view/5837)** – Designed and implemented a fuzzy logic-based control system for a quadruped robot to regulate yaw angle during forward movement using walking and trotting gaits. 
 
 ## 📫 Connect with Me  
-- GitHub: [github.com/smnizza](#)  
-- LinkedIn: [linkedin.com/in/sukma-nurul-izzah/](#linkedin.com/in/sukma-nurul-izzah/)  
+- GitHub: [github.com/smnizza](github.com/smnizza)  
+- LinkedIn: [linkedin.com/in/sukma-nurul-izzah/](linkedin.com/in/sukma-nurul-izzah/)  
 
 🚀 *Let's innovate and build something amazing together!*  
