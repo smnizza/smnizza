@@ -15,7 +15,7 @@ Always exploring new ways to integrate hardware and software to create smart sol
 🔹 **[Analysis of Gait Walk and Gait Trot Balance in Quadruped Robot Based on Attitude Angle](#)** – Designed and implemented a fuzzy logic-based control system for a quadruped robot to regulate yaw angle during forward movement using walking and trotting gaits. 
 
 ## 📫 Connect with Me  
-- GitHub: [github.com/smnizza](#)  
+- GitHub: [github.com/smnizza](#github.com/smnizza)  
 - LinkedIn: [linkedin.com/in/sukma-nurul-izzah/](#)  
 
 🚀 *Let's innovate and build something amazing together!*  
