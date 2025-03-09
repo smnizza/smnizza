@@ -12,7 +12,7 @@ Always exploring new ways to integrate hardware and software to create smart sol
 - **Data Visualization:** Tableau
 
 ## 📌 Featured Projects  
-🔹 **[Analysis of Gait Walk and Gait Trot Balance in Quadruped Robot Based on Attitude Angle](https://section.iaesonline.com/index.php/IJEEI/article/view/5837)** – Designed and implemented a fuzzy logic-based control system for a quadruped robot to regulate yaw angle during forward movement using walking and trotting gaits. 
+🔹 **[Stabilizing Quadruped Robot Movement Using Fuzzy Logic Control for Yaw Angle Adjustment in Walking and Troting Gait](https://section.iaesonline.com/index.php/IJEEI/article/view/5837)** – Designed and implemented a fuzzy logic-based control system for a quadruped robot to regulate yaw angle during forward movement using walking and trotting gaits. 
 
 ## 📫 Connect with Me  
 - GitHub: [github.com/smnizza](https://github.com/smnizza)  
