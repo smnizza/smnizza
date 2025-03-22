@@ -6,7 +6,6 @@ Always exploring new ways to integrate hardware and software to create smart sol
 
 ## 🔧 Skills & Technologies  
 - **Programming:** Python, C, C++, Arduino, SQL
-- **Microcontrollers & SBCs:** Arduino Uno, Arduino Nano, Teensy, Raspberry Pi  
 - **Hardware:** Sensors, Actuators, Robotics Systems, Automation
 - **Big Data & ETL:** SQL, Pentaho
 - **Data Visualization:** Tableau
